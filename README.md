@@ -1,2 +1,2 @@
 # Image processing
-Opencv相关API的使用和相关资料
+Opencv相关API自学笔记
