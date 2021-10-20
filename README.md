@@ -1,2 +1,2 @@
 # Opencv
-Opencv相关笔记
+Opencv相关API的使用
